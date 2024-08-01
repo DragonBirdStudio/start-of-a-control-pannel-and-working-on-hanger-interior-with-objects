@@ -1,0 +1,1 @@
+# start-of-a-control-pannel-and-working-on-hanger-interior-with-objects
